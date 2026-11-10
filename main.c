@@ -26,4 +26,5 @@ int main(void)
 	}
 }
 
-// Gaat dit wekren??
+// Gaat dit werken??
+// blijkbaar werkt het gewoon
