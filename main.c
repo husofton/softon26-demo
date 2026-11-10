@@ -25,3 +25,5 @@ int main(void)
 		vTaskDelay(pdMS_TO_TICKS(1000)); // Delay for 1 second
 	}
 }
+
+// Gaat dit wekren??
